@@ -1,0 +1,2 @@
+INSERT INTO `pmw_adtype` VALUES('1','1','0','0,','首页广告位','1003','80','1','true');
+INSERT INTO `pmw_adtype` VALUES('2','1','0','0,','子页广告位','100','70','2','true');

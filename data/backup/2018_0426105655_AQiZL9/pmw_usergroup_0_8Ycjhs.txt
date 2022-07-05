@@ -1,0 +1,6 @@
+INSERT INTO `pmw_usergroup` VALUES('1','禁止访问','-99999','0','0','');
+INSERT INTO `pmw_usergroup` VALUES('2','新手会员','1','50','1','');
+INSERT INTO `pmw_usergroup` VALUES('3','初级会员','51','200','4','');
+INSERT INTO `pmw_usergroup` VALUES('4','中级会员','201','500','8','');
+INSERT INTO `pmw_usergroup` VALUES('5','高级会员','501','1000','12','');
+INSERT INTO `pmw_usergroup` VALUES('6','金牌会员','1001','3000','16','');

@@ -1,0 +1,1 @@
+INSERT INTO `pmw_admin` VALUES('1','admin','c3284d0f94606de1fd2af172aba15bf3','','0','','1','true','162.208.94.210','1524678108');

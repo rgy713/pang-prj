@@ -1,0 +1,5 @@
+INSERT INTO `pmw_goodsflag` VALUES('1','c','推荐','1');
+INSERT INTO `pmw_goodsflag` VALUES('2','f','幻灯','2');
+INSERT INTO `pmw_goodsflag` VALUES('3','a','特推','3');
+INSERT INTO `pmw_goodsflag` VALUES('4','t','特价','4');
+INSERT INTO `pmw_goodsflag` VALUES('5','h','热卖','5');

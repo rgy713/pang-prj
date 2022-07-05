@@ -1,0 +1,2 @@
+INSERT INTO `pmw_paymode` VALUES('1','在线支付','1','true');
+INSERT INTO `pmw_paymode` VALUES('2','货到付款','2','true');

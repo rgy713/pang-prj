@@ -1,0 +1,5 @@
+INSERT INTO `pmw_postmode` VALUES('1','申通','15','1','true');
+INSERT INTO `pmw_postmode` VALUES('2','中通','15','2','true');
+INSERT INTO `pmw_postmode` VALUES('3','圆通','15','3','true');
+INSERT INTO `pmw_postmode` VALUES('4','顺丰','22','4','true');
+INSERT INTO `pmw_postmode` VALUES('5','EMS','20','5','true');

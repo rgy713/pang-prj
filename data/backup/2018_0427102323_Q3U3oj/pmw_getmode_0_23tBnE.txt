@@ -1,0 +1,2 @@
+INSERT INTO `pmw_getmode` VALUES('1','送货上门','1','true');
+INSERT INTO `pmw_getmode` VALUES('2','用户自取','2','true');

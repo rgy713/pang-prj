@@ -1,0 +1,4 @@
+INSERT INTO `pmw_voteoption` VALUES('1','1','友情链接');
+INSERT INTO `pmw_voteoption` VALUES('2','1','搜索引擎');
+INSERT INTO `pmw_voteoption` VALUES('3','1','朋友介绍');
+INSERT INTO `pmw_voteoption` VALUES('4','1','其他');

@@ -1,0 +1,6 @@
+INSERT INTO `pmw_cascade` VALUES('1','地区','area','1');
+INSERT INTO `pmw_cascade` VALUES('2','星座','astro','2');
+INSERT INTO `pmw_cascade` VALUES('3','血型','bloodtype','3');
+INSERT INTO `pmw_cascade` VALUES('4','证件类型','cardtype','4');
+INSERT INTO `pmw_cascade` VALUES('5','安全问题','question','5');
+INSERT INTO `pmw_cascade` VALUES('6','行业分布','trade','6');

@@ -1,0 +1,3 @@
+INSERT INTO `pmw_uploads` VALUES('1','1524538662.png','uploads/image/20180424/1524538662.png','14963','image','1524537295');
+INSERT INTO `pmw_uploads` VALUES('2','1524541799.png','uploads/image/20180424/1524541799.png','58129','image','1524537374');
+INSERT INTO `pmw_uploads` VALUES('3','1524545865.png','uploads/image/20180424/1524545865.png','122009','image','1524537427');

@@ -1,0 +1,2 @@
+INSERT INTO `pmw_goodsattr` VALUES('1','10','颜色','1','true');
+INSERT INTO `pmw_goodsattr` VALUES('2','10','型号','2','true');
